@@ -27,4 +27,4 @@ jobs:
         uses: docker/build-push-action@v4
         with:
           push: true
-          tags: raghuprasadkonandur/example_docker:latest
+          tags: raghuprasadkonandur/example_docker:1
